@@ -1,3 +1,3 @@
-# Movie-Recmmender-System
+# Movie-Recommender-System
 
 THIS PROJECT IS A MOVIE RECOMMENDER SYSTEM END-TO-END DEPLOYED (using NLP)
